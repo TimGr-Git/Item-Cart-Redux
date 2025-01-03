@@ -1,12 +1,8 @@
 # Redux Toolkit
 
-#### React Course
+#### Based on the following React Course, with some added functionalities
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+[Link to the React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### Docs
 
@@ -602,8 +598,6 @@ export default Modal;
 
 #### async functionality with createAsyncThunk
 
-- [Course API](https://course-api.com/)
-- https://course-api.com/react-useReducer-cart-project
 - cartSlice.js
 
 - action type
